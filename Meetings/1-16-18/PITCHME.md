@@ -8,8 +8,6 @@ ___
 #### Project Status Updates
 #### Maker Session: Git
 ---?include=About_SPARC/PITCHME.md
----
 ## Maker Session: Git
 ---?include=Maker_Sessions/Git/PITCHME.md
 ---
-## Conclusion of SPARC Meeting
