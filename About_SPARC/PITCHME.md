@@ -11,7 +11,7 @@
 * Email SPARC at <!-- .element: class="fragment" --> [sparc.auburn@gmail.com](sparc.auburn@gmail.com) <!-- .element: class="fragment" -->
 * An officer will then assist you in getting a code. <!-- .element: class="fragment" -->
 * Access code will give you 24/7 access to Broun 367. <!-- .element: class="fragment" -->
----?image=WEBSITE_BLUR.PNG
+---?image=About_SPARC/WEBSITE_BLUR.PNG
 ## Websites
 #### AUInvolve: [https://auburn.campuslabs.com/engage/organization/SPARC](https://auburn.campuslabs.com/engage/organization/SPARC)
 #### GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
