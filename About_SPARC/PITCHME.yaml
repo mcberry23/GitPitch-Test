@@ -1,2 +1,3 @@
-theme-override : assets/presentation_style.css
+theme: moon
+theme-override : assets/theme_override.css
 published : true
