@@ -11,31 +11,31 @@
 * Email SPARC at <!-- .element: class="fragment" --> [sparc.auburn@gmail.com](sparc.auburn@gmail.com) <!-- .element: class="fragment" -->
 * An officer will then assist you in getting a code. <!-- .element: class="fragment" -->
 * Access code will give you 24/7 access to Broun 367. <!-- .element: class="fragment" -->
----?image=About_SPARC/WEBSITE_BLUR.PNG
+---
 ## Websites
 #### AUInvolve: [https://auburn.campuslabs.com/engage/organization/SPARC](https://auburn.campuslabs.com/engage/organization/SPARC)
 #### GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
 #### SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
 #### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
-+++
++++?image=About_SPARC/AUINVOLVE_BLUR.PNG
 ## AUINVOLVE
 * We are an Auburn University student organization.<!-- .element: class="fragment" -->
 * Allows students to connect in with our organization and others.<!-- .element: class="fragment" -->
 * Contains a current roster of officers and members.<!-- .element: class="fragment" -->
-+++
-## GitHub
++++?image=About_SPARC/WEBSITE_BLUR.PNG
+## GitHub?image=About_SPARC/GITHUBWEBSITE_BLUR.PNG
 * Works with git, a content management system.<!-- .element: class="fragment" -->
 * Largest git community.<!-- .element: class="fragment" -->
 * Allows collaboration on projects with easy to use tools.<!-- .element: class="fragment" -->
 * SPARC GitHub organization has many of our projects and documents.<!-- .element: class="fragment" -->
 * Has many add-ins including polls, chat-bots, etc.<!-- .element: class="fragment" -->
-+++
++++?image=About_SPARC/WEBSITE_BLUR.PNG
 ## Website
 * Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
 * Shows a tour of the lab.<!-- .element: class="fragment" -->
 * Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
 * Hosted directly on GitHub.<!-- .element: class="fragment" -->
-+++
++++?image=About_SPARC/SLACK_BLUR.PNG
 ## Slack
 * A group chat system for businesses, programmers, and group projects.<!-- .element: class="fragment" -->
 * Has channels denoted like #channel.<!-- .element: class="fragment" -->
