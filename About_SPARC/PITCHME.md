@@ -29,7 +29,7 @@
 * Allows collaboration on projects with easy to use tools.<!-- .element: class="fragment" -->
 * SPARC GitHub organization has many of our projects and documents.<!-- .element: class="fragment" -->
 * Has many add-ins including polls, chat-bots, etc.<!-- .element: class="fragment" -->
-+++?image=assets/WEBSITE_BLUR.PNG
++++?image=WEBSITE_BLUR.PNG
 ## Website
 * Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
 * Shows a tour of the lab.<!-- .element: class="fragment" -->
