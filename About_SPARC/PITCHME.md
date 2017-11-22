@@ -17,25 +17,28 @@
 #### GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
 #### SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
 #### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
-+++?image=About_SPARC/AUINVOLVE_BLUR.PNG
-## AUINVOLVE<span color="white">
++++?image=About_SPARC/Images/AUINVOLVE_BLUR.PNG
+## AUINVOLVE
 * We are an Auburn University student organization.<!-- .element: class="fragment" -->
 * Allows students to connect in with our organization and others.<!-- .element: class="fragment" -->
-* Contains a current roster of officers and members.</span><!-- .element: class="fragment" -->
-+++?image=About_SPARC/GITHUB_BLUR.PNG
+* Contains a current roster of officers and members.<!-- .element: class="fragment" -->
+
++++?image=About_SPARC/Images/GITHUB_BLUR.PNG
 ## GitHub
 * Works with git, a content management system.<!-- .element: class="fragment" -->
 * Largest git community.<!-- .element: class="fragment" -->
 * Allows collaboration on projects with easy to use tools.<!-- .element: class="fragment" -->
 * SPARC GitHub organization has many of our projects and documents.<!-- .element: class="fragment" -->
 * Has many add-ins including polls, chat-bots, etc.<!-- .element: class="fragment" -->
-+++?image=About_SPARC/WEBSITE_BLUR.PNG
+
++++?image=About_SPARC/Images/WEBSITE_BLUR.PNG
 ## Website
 * Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
 * Shows a tour of the lab.<!-- .element: class="fragment" -->
 * Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
 * Hosted directly on GitHub.<!-- .element: class="fragment" -->
-+++?image=About_SPARC/SLACK_BLUR.PNG
+
++++?image=About_SPARC/Images/SLACK_BLUR.PNG
 ## Slack
 * A group chat system for businesses, programmers, and group projects.<!-- .element: class="fragment" -->
 * Has channels denoted like #channel.<!-- .element: class="fragment" -->

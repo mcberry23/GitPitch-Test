@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dea133-2986-4856-997a-c36016990d20" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/AUINVOLVE.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/AUINVOLVE_BLUR.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/GITHUB.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/SLACK.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/WEBSITE.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/WEBSITE_BLUR.PNG" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_SPARC/PITCHME.md" afterPath="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+              <first_editor relative-caret-position="588">
+                <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -221,8 +227,8 @@
     <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <first_editor relative-caret-position="588">
+            <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor>
