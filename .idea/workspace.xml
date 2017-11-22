@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dea133-2986-4856-997a-c36016990d20" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/theme_override.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/Images/SPARC-logo.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Meeting_11-17-17/PITCHME.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Meeting_11-17-17/PITCHME.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentation_2/PITCHME.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_SPARC/PITCHME.md" afterPath="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/presentation_style.css" afterPath="$PROJECT_DIR$/Assets/presentation_style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -30,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="presentation_style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="presentation_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4265">
-              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="2812">
+              <caret line="215" column="16" lean-forward="false" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -70,11 +73,11 @@
         <option value="$PROJECT_DIR$/Presentation_1/PITCHME.md" />
         <option value="$PROJECT_DIR$/Presentation_1/PITCHME.yaml" />
         <option value="$PROJECT_DIR$/Presentation_2/PITCHME.md" />
-        <option value="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
         <option value="$PROJECT_DIR$/assets/presentation_style.css" />
         <option value="$PROJECT_DIR$/assets/theme_override.css" />
         <option value="$PROJECT_DIR$/About_SPARC/PITCHME.yaml" />
         <option value="$PROJECT_DIR$/Assets/presentation_style.css" />
+        <option value="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
       </list>
     </option>
   </component>
@@ -119,11 +122,6 @@
               <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
               <item name="Assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Presentation_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,19 +233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/theme_override.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -266,9 +251,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4265">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="2812">
+          <caret line="215" column="16" lean-forward="false" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
