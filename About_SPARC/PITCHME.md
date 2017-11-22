@@ -18,12 +18,12 @@
 #### SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
 #### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
 +++?image=About_SPARC/AUINVOLVE_BLUR.PNG
-## AUINVOLVE
+## AUINVOLVE<span color="white">
 * We are an Auburn University student organization.<!-- .element: class="fragment" -->
 * Allows students to connect in with our organization and others.<!-- .element: class="fragment" -->
-* Contains a current roster of officers and members.<!-- .element: class="fragment" -->
-+++?image=About_SPARC/WEBSITE_BLUR.PNG
-## GitHub?image=About_SPARC/GITHUBWEBSITE_BLUR.PNG
+* Contains a current roster of officers and members.</span><!-- .element: class="fragment" -->
++++?image=About_SPARC/GITHUB_BLUR.PNG
+## GitHub
 * Works with git, a content management system.<!-- .element: class="fragment" -->
 * Largest git community.<!-- .element: class="fragment" -->
 * Allows collaboration on projects with easy to use tools.<!-- .element: class="fragment" -->
