@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3dea133-2986-4856-997a-c36016990d20" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/About_SPARC/Images/SPARC-logo.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Meeting_11-17-17/PITCHME.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Meeting_11-17-17/PITCHME.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Presentation_2/PITCHME.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_SPARC/PITCHME.md" afterPath="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/presentation_style.css" afterPath="$PROJECT_DIR$/Assets/presentation_style.css" />
     </list>
@@ -22,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -36,8 +32,8 @@
       <file leaf-file-name="presentation_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2812">
-              <caret line="215" column="16" lean-forward="false" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
+            <state relative-caret-position="208">
+              <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -251,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2812">
-          <caret line="215" column="16" lean-forward="false" selection-start-line="215" selection-start-column="16" selection-end-line="215" selection-end-column="16" />
+        <state relative-caret-position="208">
+          <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -260,8 +256,8 @@
     <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor>

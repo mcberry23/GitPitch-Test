@@ -1,6 +1,6 @@
 ### Welcome to
 ![SPARC](Assets/SPARC_LOGO.PNG)
-#### Broun 235 | January 16, 2018
+### Broun 235  |  January 16, 2018
 ---
 ## Introduction to SPARC
 * Founded in 2006 by the Auburn University ECE Department <!-- .element: class="fragment" -->
@@ -63,7 +63,7 @@
 ## Projects this Semester
 #### LabAssist IO<!-- .element: class="fragment" -->
 #### Matilda<!-- .element: class="fragment" -->
-#### Zumo Bots<!-- .element: class="fragment" -->
+#### Zumo Bot<!-- .element: class="fragment" -->
 #### Smart Helmet<!-- .element: class="fragment" -->
 #### Tesla Coil<!-- .element: class="fragment" -->
 ---
