@@ -1,141 +1,56 @@
 #HSLIDE
 
-## Presentation 2
-### A polyglot replacement for <span style="color:#e49436">ActionCable</span> server
-#### This is a test to understand how GitPitch works.
-#### Content will be changed later.
+## Introduction to SPARC
+* Founded in 2006 by the Auburn University ECE Department <!-- .element: class="fragment" -->
+* Acts as a “makerspace” that provides a place for students to work collaboratively on projects. <!-- .element: class="fragment" -->
+* Provides the space, tools, and some resources for these projects. <!-- .element: class="fragment" -->
+* No prior experience is required. <!-- .element: class="fragment" -->
+* Great for students of all ages and majors. <!-- .element: class="fragment" -->
+* Can act as a pathway to get involved in Undergraduate Research. <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## ActionCable
-
-#### Easy to use <!-- .element: class="fragment" -->
-
-#### Allows you to access business logic  <!-- .element: class="fragment" -->
-
-#### Has JS client that just works <!-- .element: class="fragment" -->
+## Our Lab
 
 #HSLIDE
 
-## ActionCable
-
-### is good for [designing live features](http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/)
-
-
-#HSLIDE
-
-## But...
-### is it ready for <span style="color:#e49436">production</span>?
+## How to become a Member
+* Log 5 constructive hours in the lab. <!-- .element: class="fragment" -->
+* Write times on sheet on green cabinet on left side of lab. <!-- .element: class="fragment" -->
+* Email SPARC at [sparc.auburn@gmail.com](sparc.auburn@gmail.com) <!-- .element: class="fragment" -->
+* An officer will then assist you in getting a code. <!-- .element: class="fragment" -->
+* Access code will give you 24/7 access to Broun 367. <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## Benchmarks
-
-#### Unfortunately, <span style="color:#e49436">ActionCable</span> leaves much to be desired
-
-<span style="font-size:0.6em; color:gray">Press Down key to see charts and gifs</span>
-
-#VSLIDE
-
-## Memory
-
-![memory](assets/Memory3.png)
+## Websites
+#### SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
+#### GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
+#### AUInvolve: [https://auburn.campuslabs.com/engage/organization/SPARC](https://auburn.campuslabs.com/engage/organization/SPARC)
+#### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
 
 #VSLIDE
-
-## CPU
-
-![cpu](assets/cpu_chart.gif)
-
-#VSLIDE
-
-## Broadcast Round Trip Time
-
-![rtt](assets/RTT3.png)
-
-#HSLIDE
-
-### Let's extract <span style="color:#e49436">WebSockets</span> somewhere else!
-
-#HSLIDE
-
-## AnyCable
-
-#### Combines the good parts from <span style="color:#e49436">ActionCable</span> with the power of your favorite language for concurrent applications
-
-<span style="font-size:0.6em; color:gray">How it works? See below</span>
-
-#VSLIDE
-
-## How AnyCable Works
-
-![diagram](assets/Scheme2.png)
-
-#VSLIDE
-
-## [gRPC](http://grpc.io)
-
-### Makes AnyCable to be a <span style="color:#e49436">polyglot</span>
-
-#VSLIDE
-
-## AnyCable
-
-#### [Compatible](https://github.com/anycable/anycable#actioncable-compatibility) with ActionCable (channels, javascript, broadcasting)
-
-#### You can still use ActionCable for <span style="color:#e49436">development</span> and <span style="color:#e49436">testing</span>
-
-#VSLIDE
-
-## AnyCable Servers
-
-- [anycable-go](https://github.com/anycable/anycable-go)
-
-- [erlycable](https://github.com/anycable/erlycable)
-
-#VSLIDE
-
-## AnyCable
-
-### [Demo Application](https://github.com/anycable/anycable_demo)
-
-#HSLIDE
-
-## Benchmarks Again
-
-#### AnyCable shows much more better performance.
-
-<span style="font-size:0.6em; color:gray">Press Down key to see charts and gifs</span>
-
-#VSLIDE
-
-## Memory
-
-![memory](assets/Memory5.png)
-
-#VSLIDE
-
-## CPU
-
-![cpu](assets/cpu_chart2.gif)
-
-#VSLIDE
-
-## Broadcast Round Trip Time
-
-![rtt](assets/RTT5.png)
+#### Slack
 
 
 #HSLIDE
 
-## Let's Make ActionCable Not Suck!
+## Outreach
+#### E-Day
 
-[anycable.evilmartians.io](http://anycable.io/)
+#HSLIDE
 
-Vladimir Dementyev [@palkan_tula](http://twitter.com/palkan_tula)
-
-[Evil Martians](http://evilmartians.com)
-
-Twitter [@any_cable](http://twitter.com/any_cable)
-
-GitHub [@anycable](http://github.com/anycable)
+## Project Overview
+#### Robotics and Automation
+* LabAssist IO
+* NASA RMC (Affiliate Organization)
+* Matilda
+* Zumo Bots
+#### Research
+* Smart Helmet
+* Cryo-Electronics (Dr. Hamilton)
+#### Unmanned Aerial Systems (UAS)
+* RC Hobbyist Club (Affiliate Organization)
+* Josh's Quadcopter
+#### Electronics
+* Tesla Coil
