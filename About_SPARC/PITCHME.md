@@ -8,9 +8,12 @@ ___
 * No prior experience is required. <!-- .element: class="fragment" -->
 * Great for students of all years and majors. <!-- .element: class="fragment" -->
 * Provides valuable experience.<!-- .element: class="fragment" -->
-* Is beneficial when applying for research, internships, and jobs.
-+++
+* Is beneficial when applying for research, internships, and jobs.<!-- .element: class="fragment" -->
++++?image=About_SPARC/Images/SPARC_LAB_BLUR.PNG
 ## Our Lab
+* Room 367 in Broun Hall, Auburn University<!-- .element: class="fragment" -->
+* Acts as a maker space with basic tools for projects.<!-- .element: class="fragment" -->
+* Has a 3D printer, CAD station, solder station, and more.<!-- .element: class="fragment" -->
 +++
 ## How to become a Member
 * Log 5 constructive hours in the lab. <!-- .element: class="fragment" -->
