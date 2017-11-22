@@ -17,7 +17,7 @@
 ## How to become a Member
 * Log 5 constructive hours in the lab. <!-- .element: class="fragment" -->
 * Write times on sheet on green cabinet on left side of lab. <!-- .element: class="fragment" -->
-* Email SPARC at [sparc.auburn@gmail.com](sparc.auburn@gmail.com) <!-- .element: class="fragment" -->
+* Email SPARC at <!-- .element: class="fragment" --> [sparc.auburn@gmail.com](sparc.auburn@gmail.com) <!-- .element: class="fragment" -->
 * An officer will then assist you in getting a code. <!-- .element: class="fragment" -->
 * Access code will give you 24/7 access to Broun 367. <!-- .element: class="fragment" -->
 
@@ -39,18 +39,21 @@
 #### E-Day
 
 #HSLIDE
+#### Affiliate Organizations
+* NASA RMC (Space Club) <!-- .element: class="fragment" -->
+* RC Hobbyist Club <!-- .element: class="fragment" -->
+* Auburn Nano-Tech Group (Dr. Hamilton) <!-- .element: class="fragment" -->
 
-## Project Overview
+#HSLIDE
+## Projects this Semester
 #### Robotics and Automation
-* LabAssist IO
-* NASA RMC (Affiliate Organization)
-* Matilda
-* Zumo Bots
+* LabAssist IO<!-- .element: class="fragment" -->
+* Matilda<!-- .element: class="fragment" -->
+* Zumo Bots<!-- .element: class="fragment" -->
 #### Research
-* Smart Helmet
-* Cryo-Electronics (Dr. Hamilton)
-#### Unmanned Aerial Systems (UAS)
-* RC Hobbyist Club (Affiliate Organization)
-* Josh's Quadcopter
+* Smart Helmet<!-- .element: class="fragment" -->
 #### Electronics
-* Tesla Coil
+* Tesla Coil<!-- .element: class="fragment" -->
+
+#HSLIDE
+## LabAssist IO
