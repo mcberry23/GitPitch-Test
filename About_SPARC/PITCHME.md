@@ -1,13 +1,14 @@
 ### Welcome to
 ![SPARC](Assets/SPARC_LOGO.PNG)
+___
 ### Broun 235  |  January 16, 2018
 ---
 ## Introduction to SPARC
-* Founded in 2006 by the Auburn University ECE Department <!-- .element: class="fragment" -->
 * We are a group of students working collaboratively on projects. <!-- .element: class="fragment" -->
 * No prior experience is required. <!-- .element: class="fragment" -->
-* Great for students of all ages and majors. <!-- .element: class="fragment" -->
+* Great for students of all years and majors. <!-- .element: class="fragment" -->
 * Provides valuable experience.<!-- .element: class="fragment" -->
+* Is beneficial when applying for research, internships, and jobs.
 +++
 ## Our Lab
 +++
