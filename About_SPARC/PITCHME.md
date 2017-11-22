@@ -19,10 +19,10 @@
 * Access code will give you 24/7 access to Broun 367. <!-- .element: class="fragment" -->
 ---
 ## Websites
-#### AUInvolve: [https://auburn.campuslabs.com/engage/organization/SPARC](https://auburn.campuslabs.com/engage/organization/SPARC)
-#### GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
-#### SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
-#### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
+* AUInvolve: [https://auburn.campuslabs.com/engage/organization/SPARC](https://auburn.campuslabs.com/engage/organization/SPARC)
+* GitHub: [https://github.com/SPARC-Auburn](https://github.com/SPARC-Auburn)
+* SPARC Website: [http://sparc-auburn.github.io/](http://sparc-auburn.github.io/)
+* Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
 +++?image=About_SPARC/Images/AUINVOLVE_BLUR.PNG
 ## AUINVOLVE
 * We are an Auburn University student organization.<!-- .element: class="fragment" -->
