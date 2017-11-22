@@ -19,24 +19,24 @@
 #### Slack: [https://sparc-auburn.slack.com/messages/general](https://sparc-auburn.slack.com/messages/general)
 +++?image=About_SPARC/Images/AUINVOLVE_BLUR.PNG
 ## AUINVOLVE
-* We are an Auburn University student organization.<!-- .element: class="fragment" -->
-* Allows students to connect in with our organization and others.<!-- .element: class="fragment" -->
-* Contains a current roster of officers and members.<!-- .element: class="fragment" -->
+* <span color="white">We are an Auburn University student organization.</span><!-- .element: class="fragment" -->
+* <span color="white">Allows students to connect in with our organization and others.</span><!-- .element: class="fragment" -->
+* <span color="white">Contains a current roster of officers and members.</span><!-- .element: class="fragment" -->
 
 +++?image=About_SPARC/Images/GITHUB_BLUR.PNG
 ## GitHub
-* Works with git, a content management system.<!-- .element: class="fragment" -->
-* Largest git community.<!-- .element: class="fragment" -->
-* Allows collaboration on projects with easy to use tools.<!-- .element: class="fragment" -->
-* SPARC GitHub organization has many of our projects and documents.<!-- .element: class="fragment" -->
-* Has many add-ins including polls, chat-bots, etc.<!-- .element: class="fragment" -->
+* <span color="white">Works with git, a content management system.</span><!-- .element: class="fragment" -->
+* <span color="white">Largest git community.</span><!-- .element: class="fragment" -->
+* <span color="white">Allows collaboration on projects with easy to use tools.</span><!-- .element: class="fragment" -->
+* <span color="white">SPARC GitHub organization has many of our projects and documents.</span><!-- .element: class="fragment" -->
+* <span color="white">Has many add-ins including polls, chat-bots, etc.</span><!-- .element: class="fragment" -->
 
 +++?image=About_SPARC/Images/WEBSITE_BLUR.PNG
 ## Website
-* Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
-* Shows a tour of the lab.<!-- .element: class="fragment" -->
-* Gives a quick overview of all our projects.<!-- .element: class="fragment" -->
-* Hosted directly on GitHub.<!-- .element: class="fragment" -->
+* <span color="white">Gives a quick overview of all our projects.</span><!-- .element: class="fragment" -->
+* <span color="white">Shows a tour of the lab.</span><!-- .element: class="fragment" -->
+* <span color="white">Gives a quick overview of all our projects.</span><!-- .element: class="fragment" -->
+* <span color="white">Hosted directly on GitHub.</span><!-- .element: class="fragment" -->
 
 +++?image=About_SPARC/Images/SLACK_BLUR.PNG
 ## Slack
