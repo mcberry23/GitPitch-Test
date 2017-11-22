@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f3dea133-2986-4856-997a-c36016990d20" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/About_SPARC/PITCHME.md" afterPath="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.md" afterPath="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.yaml" afterPath="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.yaml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <first_editor relative-caret-position="-737">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -29,22 +31,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="presentation_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-              <folding />
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Meetings/1-16-18/PITCHME.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PITCHME.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-              <folding />
+      <file leaf-file-name="PITCHME.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Maker_Sessions/Git/PITCHME.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="103" lean-forward="false" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -73,7 +81,10 @@
         <option value="$PROJECT_DIR$/assets/theme_override.css" />
         <option value="$PROJECT_DIR$/About_SPARC/PITCHME.yaml" />
         <option value="$PROJECT_DIR$/Assets/presentation_style.css" />
+        <option value="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.yaml" />
         <option value="$PROJECT_DIR$/About_SPARC/PITCHME.md" />
+        <option value="$PROJECT_DIR$/Meetings/1-16-18/PITCHME.md" />
+        <option value="$PROJECT_DIR$/Maker_Sessions/Git/PITCHME.md" />
       </list>
     </option>
   </component>
@@ -83,7 +94,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1050" />
@@ -123,6 +134,28 @@
               <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
               <item name="Assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Maker_Sessions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Maker_Sessions" type="462c0819:PsiDirectoryNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Meetings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GitPitch-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitPitch-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Meetings" type="462c0819:PsiDirectoryNode" />
+              <item name="1-16-18" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,15 +192,15 @@
       <option name="presentableId" value="Default" />
       <updated>1511356135262</updated>
       <workItem from="1511381182639" duration="30000" />
-      <workItem from="1511381244260" duration="1302000" />
+      <workItem from="1511381244260" duration="3657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2448000" />
+    <option name="totallyTimeSpent" value="4803000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,14 +350,6 @@
     <entry file="file://$PROJECT_DIR$/Presentation_1/PITCHME.md" />
     <entry file="file://$PROJECT_DIR$/Presentation_2/PITCHME.md" />
     <entry file="file://$PROJECT_DIR$/Assets/theme_override.css" />
-    <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/presentation_style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -333,11 +358,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meetings/1-16-18/PITCHME.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/About_SPARC/PITCHME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <first_editor relative-caret-position="-737">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -347,6 +388,28 @@
         <state relative-caret-position="21">
           <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meetings/1-16-18/PITCHME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maker_Sessions/Git/PITCHME.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="103" lean-forward="false" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

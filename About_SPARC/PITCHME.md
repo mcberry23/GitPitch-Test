@@ -1,8 +1,3 @@
-### Welcome to
-![SPARC](Assets/SPARC_LOGO.PNG)
-___
-### Broun 235  |  January 16, 2018
----
 ## Introduction to SPARC
 * We are a group of students working collaboratively on projects. <!-- .element: class="fragment" -->
 * No prior experience is required. <!-- .element: class="fragment" -->
@@ -71,4 +66,4 @@ ___
 #### Smart Helmet<!-- .element: class="fragment" -->
 #### Tesla Coil<!-- .element: class="fragment" -->
 ---
-## LabAssist IO
+
